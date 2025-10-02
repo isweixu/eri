@@ -2,9 +2,6 @@
 This repository provides the Stata codes necessary to reproduce the results presented in our Environmental Racism Index (ERI) paper.
 
 ## Content
-ReadMe file: Step-by-step guidance on how to run the code\
-Scripts: \
-
 1_cleaning tract data.R: cleaning tract environmental data from various sources\
 1.1_1.1_cleaning CDCEPH TRACKING data.R: cleaning tract environmental data from CDCEPH tracking system\
 2_creating tract EEI.R: creating tract environmental exposure index (EEI)\
