@@ -1,6 +1,9 @@
 # This file contains code for creating state and MSA level ERI values.
 # The term ERI and MCC are used exchangably here. 
 
+# author: Wei Xu
+# organization: Medical College of Wisconsin
+
 library(readr)
 library(tidyverse)
 library(sf)
