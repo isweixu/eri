@@ -1,6 +1,8 @@
 #########
-# this file contains R script for harmonizing and cleaning census tract environmental variables. 
-# author: Wei Xu
+# Description: R script for harmonizing and cleaning census tract environmental variables. 
+# Author: Wei Xu
+# Organization: Medical College of Wisconsin
+# Date: Jun, 2023-December, 2023
 #########
 
 library(stringr)
