@@ -1,5 +1,10 @@
-# This file contains code used to clean up the tract environmental data obtained
+#########
+# Description: This file contains code used to clean up the tract environmental data obtained
 # from the CDCEPH.
+# Author: Wei Xu
+# Organization: Medical College of Wisconsin
+# Date: Jun, 2023-December, 2023
+#########
 
 # https://github.com/CDCgov/EPHTrackR 
 
