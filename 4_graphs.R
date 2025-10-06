@@ -1,4 +1,7 @@
-
+# This script contains code for creating all main plots of the Environmental Racism Index (ERI) paper
+# author: Wei Xu
+# organization: Medical College of Wisconsin
+# date: August, 2025
 
 
 library(ggcorrplot)
