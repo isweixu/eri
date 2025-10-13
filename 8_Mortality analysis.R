@@ -16,7 +16,7 @@ library(psych)
 library(skimr)
 library(patchwork)
 library(lme4)
-
+library(afex) 
 
 options(scipen=999)
 
